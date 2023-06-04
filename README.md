@@ -20,19 +20,17 @@ My skills and expertise span across the following technologies:
 
 Aside from coding, I have a fascination for robotics and Machine Learning. When I'm not coding, you can find me on the soccer field, chasing the ball. I also find joy in the art of origami, creating beautiful paper creations.
 
-<!--
+
 ## Side Projects
 
 In addition to my professional work, I've also worked on several side projects that I'm excited to share with you:
 
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
-| Arcade    | You vs | [GitHub Repository](link-to-repo) | [Demo/Live Version](link-to-demo) |
-| Project 2    | Briefly describe the project and its purpose. | [GitHub Repository](link-to-repo) | [Demo/Live Version](link-to-demo) |
-| Project 3    | Briefly describe the project and its purpose. | [GitHub Repository](link-to-repo) | [Demo/Live Version](link-to-demo) |
-| Project 4    | Briefly describe the project and its purpose. | [GitHub Repository](link-to-repo) | [Demo/Live Version](link-to-demo) |
+| Arcade    | You vs AI in mini arcade games | [Github Repository](https://github.com/conceptcodes/arcade) | [Demo/Live Version](https://arcade.conceptcodes.dev) |
+| Rulify    | Easy way to visualize RRULE string in a ui calendar | [GitHub Repository](https://github.com/conceptcodes/rulify) | [Demo/Live Version](https://rulify.conceptcodes.dev) |
 
--->
+
 
 ## Blog
 
