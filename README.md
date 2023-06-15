@@ -29,6 +29,7 @@ In addition to my professional work, I've also worked on several side projects t
 |--------------|-------------|-------------------|-------------------|
 | Arcade    | You vs AI in mini arcade games | [Github Repository](https://github.com/conceptcodes/arcade) | [Demo/Live Version](https://arcade.conceptcodes.dev) |
 | Rulify    | Easy way to visualize RRULE string in a ui calendar | [GitHub Repository](https://github.com/conceptcodes/rulify) | [Demo/Live Version](https://rulify.conceptcodes.dev) |
+| Jumba     |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/conceptcodes/jumba) | [Demo/Live Version](https://jumba.conceptcodes.dev)
 
 
 
