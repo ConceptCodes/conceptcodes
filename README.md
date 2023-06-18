@@ -29,12 +29,15 @@ In addition to my professional work, I've also worked on several side projects t
 |--------------|-------------|-------------------|-------------------|
 | Arcade    | You vs AI in mini arcade games | [Github Repository](https://github.com/conceptcodes/arcade) | [Demo/Live Version](https://arcade.conceptcodes.dev) |
 | Rulify    | Easy way to visualize RRULE string in a ui calendar | [GitHub Repository](https://github.com/conceptcodes/rulify) | [Demo/Live Version](https://rulify.conceptcodes.dev) |
-| Jumba     |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/conceptcodes/jumba) | [Demo/Live Version](https://jumba.conceptcodes.dev)
+| Chester   | AI Chess tutor | [GitHub Repository](https://github.com/conceptcodes/chester) | [Demo/Live Version](https://blogr.conceptcodes.dev)
 
-
+## Micro-Sass
+| Project Name | Description | GitHub Repository | Demo/Live Version |
+|--------------|-------------|-------------------|-------------------|
+| Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/conceptcodes/jumba) | [Demo/Live Version](https://jumba.conceptcodes.dev)
 
 ## Blog
 
-I maintain a blog where I share my thoughts on web development, discuss the latest tech trends, and provide valuable insights. Join me on this exciting journey of software engineering exploration.
+I maintain a [Blog](https://blogr.conceptcodes.dev) where I share my thoughts on web development, discuss the latest tech trends, and provide valuable insights. Join me on this exciting journey of software engineering exploration.
 
 Feel free to browse through my repositories and explore my work. Let's collaborate and create something amazing together! 🚀
