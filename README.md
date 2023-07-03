@@ -29,12 +29,13 @@ In addition to my professional work, I've also worked on several side projects t
 |--------------|-------------|-------------------|-------------------|
 | Arcade    | You vs AI in mini arcade games | [Github Repository](https://github.com/conceptcodes/arcade) | [Demo/Live Version](https://arcade.conceptcodes.dev) |
 | Rulify    | Easy way to visualize RRULE string in a ui calendar | [GitHub Repository](https://github.com/conceptcodes/rulify) | [Demo/Live Version](https://rulify.conceptcodes.dev) |
-| Chester   | AI Chess tutor | [GitHub Repository](https://github.com/conceptcodes/chester) | [Demo/Live Version](https://blogr.conceptcodes.dev)
+| Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/conceptcodes/chester) | [Demo/Live Version](https://blogr.conceptcodes.dev)
 
 ## Micro-Sass
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
 | Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/conceptcodes/jumba) | [Demo/Live Version](https://jumba.conceptcodes.dev)
+| Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/conceptcodes/brainwave) | [Demo/Live Version](https://brainwave.quest)
 
 ## Blog
 
