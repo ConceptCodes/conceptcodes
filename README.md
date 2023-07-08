@@ -1,6 +1,6 @@
 # 👋🏾 It's a beautiful day in the Neighborhood
 
-Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer with a deep passion for web development and Deep Learning. With 3+ years of professional experience as a Full Stack Web Developer, I specialize in Node.js, Python, and Java.
+Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer with a deep passion for web development and Deep Learning. With 3+ years of professional experience as a Full Stack Developer, I specialize in Node.js, Python, and Java.
 
 ## About Me
 
@@ -18,12 +18,12 @@ My skills and expertise span across the following technologies:
 
 ## Interests and Hobbies
 
-Aside from coding, I have a fascination for robotics and Machine Learning. When I'm not coding, you can find me on the soccer field, chasing the ball. I also find joy in the art of origami, creating beautiful paper creations.
+Aside from coding, I have a fascination for robotics and Machine Learning. When I'm not coding, you can find me on the soccer field, chasing the ball. I also find joy in the art of origami.
 
 
 ## Side Projects
 
-In addition to my professional work, I've also worked on several side projects that I'm excited to share with you:
+In addition to my professional work, I've also worked on several software/hardware projects that I'm excited to share with you:
 
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
