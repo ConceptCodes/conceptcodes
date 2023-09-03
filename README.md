@@ -6,6 +6,8 @@ Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer
 
 I'm always eager to explore the latest technologies and keep up with the ever-evolving software engineering landscape. Through my blog, I share my expertise, experiences, and insights in web development, covering various topics and trends in the tech industry.
 
+<img src="https://raw.githubusercontent.com/conceptcodes/conceptcodes/output/github-contribution-grid-snake.svg" />
+
 ## Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ojo-66a12a147/).
