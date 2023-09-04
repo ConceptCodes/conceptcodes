@@ -6,7 +6,11 @@ Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer
 
 I'm always eager to explore the latest technologies and keep up with the ever-evolving software engineering landscape. Through my blog, I share my expertise, experiences, and insights in web development, covering various topics and trends in the tech industry.
 
-<img src="https://raw.githubusercontent.com/conceptcodes/conceptcodes/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Get in Touch
 
@@ -42,5 +46,8 @@ In addition to my professional work, I've also worked on several software/hardwa
 ## Blog
 
 I maintain a [Blog](https://blogr.conceptcodes.dev) where I share my thoughts on web development, discuss the latest tech trends, and provide valuable insights. Join me on this exciting journey of software engineering exploration.
+
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 Feel free to browse through my repositories and explore my work. Let's collaborate and create something amazing together! 🚀
