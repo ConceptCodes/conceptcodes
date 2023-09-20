@@ -40,6 +40,7 @@ In addition to my professional work, I've also worked on several software/hardwa
 ## Micro-Sass
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
+| Kawe         | Our mission is to revolutionize the way students approach their studies. Let Kawe be your ultimate study companion and achieve academic success with confidence. | [Github Repository](https://github.com/todo-labs) | [Demo/Live Version](https://beta.kawe.app) |
 | Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/todo-labs/jumba) | [Demo/Live Version](https://jumba.conceptcodes.dev)
 | Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/todo-labs/brainwave) | [Demo/Live Version](https://brainwave.quest)
 
