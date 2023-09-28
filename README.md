@@ -1,6 +1,6 @@
 # 👋🏾 It's a beautiful day in the Neighborhood
 
-Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer with a deep passion for web development and Deep Learning. With 3+ years of professional experience as a Full Stack Developer, I specialize in Node.js, Python, and Java.
+Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer with a deep passion for web development and Deep Learning. I specialize in Node.js/Typescript, Python, and Java.
 
 ## About Me
 
