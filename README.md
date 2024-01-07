@@ -35,7 +35,8 @@ In addition to my professional work, I've also worked on several software/hardwa
 |--------------|-------------|-------------------|-------------------|
 | Arcade    | You vs AI in mini arcade games | [Github Repository](https://github.com/conceptcodes/arcade) | [Demo/Live Version](https://arcade.conceptcodes.dev) |
 | Rulify    | Easy way to visualize RRULE string in a ui calendar | [GitHub Repository](https://github.com/conceptcodes/rulify) | [Demo/Live Version](https://rulify.conceptcodes.dev) |
-| Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/conceptcodes/chester) | [Demo/Live Version](https://blogr.conceptcodes.dev)
+| Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/conceptcodes/chester) | N/A
+| Speech GPT | A GPT-4 powered CLI chatbot to talk with your speeches. | [GitHub Repository](https://github.com/conceptcodes/speech-gpt-node) | N/A
 
 ## Micro-Sass
 | Project Name | Description | GitHub Repository | Demo/Live Version |
