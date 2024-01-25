@@ -1,6 +1,6 @@
 # 👋🏾 It's a beautiful day in the Neighborhood
 
-Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer with a deep passion for web development and Deep Learning. I specialize in Node.js/Typescript, Python, and Java.
+Hey Neighbor! Welcome to my github profile. I'm an experienced software engineer with a deep passion for web development and Deep Learning. I specialize in Typescript, Python, and Java.
 
 ## About Me
 
