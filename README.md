@@ -37,14 +37,14 @@ In addition to my professional work, I've also worked on several software/hardwa
 | Rulify    | Easy way to visualize RRULE string in a ui calendar | [GitHub Repository](https://github.com/conceptcodes/rulify) | [Demo/Live Version](https://rulify.conceptcodes.dev) |
 | Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/conceptcodes/chester) | N/A
 | Speech GPT | A GPT-4 powered CLI chatbot to talk with your speeches. | [GitHub Repository](https://github.com/ConceptCodes?tab=repositories&q=speech-gpt&type=&language=&sort=) | N/A
-| KV Store   | A Simple KV Store Microservice | [Github Repository](https://github.com/ConceptCodes/kv-store-go) | N/A 
+| KV Store   | Multi-Tenant KV Store Microservice | [Github Repository](https://github.com/ConceptCodes/kv-store-go) | N/A 
 
 ## Micro-Sass
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
-| Kawe         | Our mission is to revolutionize the way students approach their studies. Let Kawe be your ultimate study companion and achieve academic success with confidence. | [Github Repository](https://github.com/todo-labs) | [Demo/Live Version](https://beta.kawe.app) |
+| Podcastr         | AI Genreated Podcast 🤷🏾‍♂️ | N/A | [Demo/Live Version](https://podcastr.app) |
 | Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/todo-labs/jumba) | [Demo/Live Version](https://jumba.conceptcodes.dev)
-| Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/todo-labs/brainwave) | [Demo/Live Version](https://brainwave.quest)
+| Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/todo-labs/brainwave) | N/A
 
 ## Blog
 
