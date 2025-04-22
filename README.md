@@ -43,7 +43,7 @@ In addition to my professional work, I've also worked on several software/hardwa
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
 | Podcastr         | AI Genreated Podcast 🤷🏾‍♂️ | N/A | [Demo/Live Version](https://podcastr.app) |
-| Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/todo-labs/jumba) | [Demo/Live Version](https://jumba.conceptcodes.dev)
+| Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/todo-labs/jumba) | N/A
 | Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/todo-labs/brainwave) | N/A
 
 ## Blog
