@@ -33,18 +33,15 @@ In addition to my professional work, I've also worked on several software/hardwa
 
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
-| Arcade    | You vs AI in mini arcade games | [Github Repository](https://github.com/conceptcodes/arcade) | [Demo/Live Version](https://arcade.conceptcodes.dev) |
-| Deep Research UI    | Deep Research Agent in the Browser | [GitHub Repository](https://github.com/conceptcodes/deep-research-ui) | [Demo/Live Version](https://deep-research.conceptcodes.dev) |
 | Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/conceptcodes/chester) | N/A
-| Speech GPT | A GPT-4 powered CLI chatbot to talk with your speeches. | [GitHub Repository](https://github.com/ConceptCodes?tab=repositories&q=speech-gpt&type=&language=&sort=) | N/A
-| KV Store   | Multi-Tenant KV Store Microservice | [Github Repository](https://github.com/ConceptCodes/kv-store-go) | N/A 
+| Theca | AI-powered personal library manager and reading tracker featuring automated metadata extraction, reading streaks, and intelligent book recommendations. | [GitHub Repository](https://github.com/todo-labs/theca) | [Link](https://theca.conceptcodes.dev) |
 
 ## Micro-Sass
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
-| Podcastr         | AI Genreated Podcast 🤷🏾‍♂️ | N/A | [Demo/Live Version](https://podcastr.app) |
-| Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/todo-labs/jumba) | N/A
-| Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/todo-labs/brainwave) | N/A
+| Podcastr         | AI Genreated Podcast 🤷🏾‍♂️ | N/A | *Coming Soon* |
+| Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/todo-labs/jumba) |  [Link](https://jumba.co)
+| Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/todo-labs/brainwave) | *Coming Soon*
 
 ## Blog
 
