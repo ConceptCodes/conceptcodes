@@ -41,7 +41,6 @@ In addition to my professional work, I've also worked on several software/hardwa
 | Podcastr | AI-powered podcast generator that creates engaging, personalized podcast episodes using advanced language models and on device voice synthesis. | N/A | *Coming Soon* |
 | Tee Time | AI-powered WhatsApp bot to manage tee time bookings for golf clubs. | [GitHub Repository](https://github.com/ConceptCodes/tee-time) | N/A |
 | Theca | AI-powered personal library manager and reading tracker featuring automated metadata extraction, reading streaks, and intelligent book recommendations. | [GitHub Repository](https://github.com/todo-labs/theca) | [Link](https://theca.conceptcodes.dev) |
-| Fragment | A high-performance, real-time collaborative coding environment built with Go, Templ + HTMX, and WebAssembly. | [GitHub Repository](https://github.com/ConceptCodes/fragment) | *Coming Soon* |
 
 <!-- ## Blog -->
 
