@@ -20,34 +20,37 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ojo
 
 My skills and expertise span across the following technologies:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ConceptCodes&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConceptCodes&layout=compact&theme=radical)
 
 ## Interests and Hobbies
 
 Aside from coding, I have a fascination for robotics and Machine Learning. When I'm not coding, you can find me on the soccer field, chasing the ball. I also find joy in the art of origami.
 
 
-## Side Projects
+## Projects
 
 In addition to my professional work, I've also worked on several software/hardware projects that I'm excited to share with you:
 
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
-| Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/todo-labs/chester) | N/A
+| Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/todo-labs/chester) | *Coming Soon* |
+| DJI Tello CTL | Go CLI/SDK and utilities for controlling DJI Tello drones. | [GitHub Repository](https://github.com/ConceptCodes/dji-tello-sdk) | N/A |
+| Jumba | Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh. | [GitHub Repository](https://github.com/todo-labs/jumba) | [Link](https://jumba.co) |
+| Podcastr | AI-powered podcast generator that creates engaging, personalized podcast episodes using advanced language models and on device voice synthesis. | N/A | *Coming Soon* |
+| Tee Time | AI-powered WhatsApp bot to manage tee time bookings for golf clubs. | [GitHub Repository](https://github.com/ConceptCodes/tee-time) | N/A |
 | Theca | AI-powered personal library manager and reading tracker featuring automated metadata extraction, reading streaks, and intelligent book recommendations. | [GitHub Repository](https://github.com/todo-labs/theca) | [Link](https://theca.conceptcodes.dev) |
-| Podcastr         | AI Genreated Podcast 🤷🏾‍♂️ | N/A | *Coming Soon* |
-| Brainwave    | Revolutionize your SAT exam preparation with our cutting-edge AI-powered app that provides personalized study plans, comprehensive practice tests, and advanced performance analytics | [GitHub Repository](https://github.com/todo-labs/brainwave) | *Coming Soon*
 
-## Micro-Sass
-| Project Name | Description | GitHub Repository | Demo/Live Version |
-|--------------|-------------|-------------------|-------------------|
-| Jumba        |  Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh.| [GitHub Repository](https://github.com/todo-labs/jumba) |  [Link](https://jumba.co)
+<!-- ## Blog -->
 
-## Blog
-
-I maintain a [Blog](https://blogr.conceptcodes.dev) where I share my thoughts on web development, discuss the latest tech trends, and provide valuable insights. Join me on this exciting journey of software engineering exploration.
+<!-- I maintain a [Blog](https://blogr.conceptcodes.dev) where I share my thoughts on web development, discuss the latest tech trends, and provide valuable insights. Join me on this exciting journey of software engineering exploration. -->
 
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 
-Feel free to browse through my repositories and explore my work. Let's collaborate and create something amazing together! 🚀
+<!-- Feel free to browse through my repositories and explore my work. Let's collaborate and create something amazing together! 🚀  -->
