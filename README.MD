@@ -34,12 +34,15 @@ In addition to my professional work, I've also worked on several software/hardwa
 
 | Project Name | Description | GitHub Repository | Demo/Live Version |
 |--------------|-------------|-------------------|-------------------|
+| AI Order Entry | Conversational AI voice agent for fast-food restaurant order taking with LangGraph state management, SQLite database, and support for multiple languages. | [GitHub Repository](https://github.com/ConceptCodes/ai-order-entry) | N/A |
 | Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/todo-labs/chester) | *Coming Soon* |
 | DJI Tello CTL | Go CLI/SDK and utilities for controlling DJI Tello drones. | [GitHub Repository](https://github.com/ConceptCodes/dji-tello-sdk) | N/A |
 | Fragment | A high-performance, real-time collaborative coding environment built with Go, Templ + HTMX, and WebAssembly. | [GitHub Repository](https://github.com/ConceptCodes/fragment) | *Coming Soon* |
 | Jumba | Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh. | [GitHub Repository](https://github.com/todo-labs/jumba) | [Link](https://jumba.co) |
 | Podcastr | AI-powered podcast generator that creates engaging, personalized podcast episodes using advanced language models and on device voice synthesis. | N/A | *Coming Soon* |
-| Tee Time | AI-powered WhatsApp bot to manage tee time bookings for golf clubs. | [GitHub Repository](https://github.com/ConceptCodes/tee-time) | N/A |
+| Quarto Bot | Intelligent robotic arm that learns to play Quarto through reinforcement learning, featuring YOLOv11 computer vision, MuJoCo simulation, and PPO training. | [GitHub Repository](https://github.com/ConceptCodes/quarto-bot) | N/A |
+| RL Agents | Collection of reinforcement learning agents trained to play classic games (Snake, Pong) and strategic games (Gungi) using Gymnasium and PufferLib. | [GitHub Repository](https://github.com/ConceptCodes/rl-agents) | N/A |
+| Tee Time | AI-powered WhatsApp bot for automated tee time bookings with intelligent member onboarding, FAQ automation, and comprehensive admin dashboard. Built with Bun, TypeScript, Hono, React, PostgreSQL, and Vercel AI SDK. | [GitHub Repository](https://github.com/ConceptCodes/tee-time) | N/A |
 | Theca | AI-powered personal library manager and reading tracker featuring automated metadata extraction, reading streaks, and intelligent book recommendations. | [GitHub Repository](https://github.com/todo-labs/theca) | [Link](https://theca.conceptcodes.dev) |
 
 <!-- ## Blog -->
