@@ -30,20 +30,30 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 
 ## Projects
 
-In addition to my professional work, I've also worked on several software/hardware projects that I'm excited to share with you:
+### Active
 
-| Project Name | Description | GitHub Repository | Demo/Live Version |
-|--------------|-------------|-------------------|-------------------|
-| AI Order Entry | Conversational AI voice agent for fast-food restaurant order taking with LangGraph state management, SQLite database, and support for multiple languages. | [GitHub Repository](https://github.com/ConceptCodes/ai-order-entry) | N/A |
-| Chester   | Unlock your chess potential with our AI-powered chess tutor, providing insightful analysis to enhance your strategic thinking and master the game. | [GitHub Repository](https://github.com/todo-labs/chester) | *Coming Soon* |
-| DJI Tello CTL | Go CLI/SDK and utilities for controlling DJI Tello drones. | [GitHub Repository](https://github.com/ConceptCodes/dji-tello-sdk) | N/A |
-| Fragment | A high-performance, real-time collaborative coding environment built with Go, Templ + HTMX, and WebAssembly. | [GitHub Repository](https://github.com/ConceptCodes/fragment) | *Coming Soon* |
-| Jumba | Innovative recipe generation app, offering a personalized and hassle-free cooking experience akin to HelloFresh. | [GitHub Repository](https://github.com/todo-labs/jumba) | [Link](https://jumba.co) |
-| Podcastr | AI-powered podcast generator that creates engaging, personalized podcast episodes using advanced language models and on device voice synthesis. | N/A | *Coming Soon* |
-| Quarto Bot | Intelligent robotic arm that learns to play Quarto through reinforcement learning, featuring YOLOv11 computer vision, MuJoCo simulation, and PPO training. | [GitHub Repository](https://github.com/ConceptCodes/quarto-bot) | N/A |
-| RL Agents | Collection of reinforcement learning agents trained to play classic games (Snake, Pong) and strategic games (Gungi) using Gymnasium and PufferLib. | [GitHub Repository](https://github.com/ConceptCodes/rl-agents) | N/A |
-| Tee Time | AI-powered WhatsApp bot for automated tee time bookings with intelligent member onboarding, FAQ automation, and comprehensive admin dashboard. Built with Bun, TypeScript, Hono, React, PostgreSQL, and Vercel AI SDK. | [GitHub Repository](https://github.com/ConceptCodes/tee-time) | N/A |
-| Theca | AI-powered personal library manager and reading tracker featuring automated metadata extraction, reading streaks, and intelligent book recommendations. | [GitHub Repository](https://github.com/todo-labs/theca) | [Link](https://theca.conceptcodes.dev) |
+- 🎤 **[AI Order Entry](https://github.com/ConceptCodes/ai-order-entry)** - Conversational AI voice agent that takes orders like a pro—multi-language support included
+- ♟️ **[Chester](https://github.com/todo-labs/chester)** - AI-powered chess tutor that levels up your strategic thinking
+- 🚁 **[DJI Tello CTL](https://github.com/ConceptCodes/dji-tello-sdk)** - Go CLI and SDK to put DJI Tello drones through their paces
+- 🎬 **[Deep SQL Researcher](https://github.com/ConceptCodes/deep-sql-research)** - Transform SQL research into polished video presentations with LangGraph
+- 🤝 **[Fragment](https://github.com/ConceptCodes/fragment)** - Real-time collaborative coding—HTMX + Go + WebAssembly, no waiting
+- 🧹 **[Mantis](https://github.com/ConceptCodes/mantis)** - Dog poop detection system—live camera monitoring with YOLO and email reports
+- 🧰 **[Poly-script](https://github.com/ConceptCodes/poly-script)** - Cross-language scripting platform—write once, run everywhere
+- 🦾 **[Quarto Bot](https://github.com/ConceptCodes/quarto-bot)** - Robotic arm mastering Quarto via RL, YOLOv11 vision, and PPO training
+- 🎮 **[RL Agents](https://github.com/ConceptCodes/rl-agents)** - Reinforcement learning collection—Snake, Pong, and Gungi, conquered
+- 💰 **[Eth Indexer](https://github.com/ConceptCodes/eth-indexer-go)** - Lightweight Ethereum blockchain indexer built in Go
+- 🎢 **[Rail Forge](https://github.com/ConceptCodes/rail-forge)** - 3D-printable roller coaster tracks—Python + OpenSCAD toolchain
+- ⛳ **[Tee Time](https://github.com/ConceptCodes/tee-time)** - WhatsApp bot that books your tee time while you sleep
+- 📚 **[Theca](https://github.com/todo-labs/theca)** - AI-powered personal library manager that tracks your reads and recommends your next ([Live](https://theca.conceptcodes.dev))
+- 🎙 **[Speech GPT](https://github.com/ConceptCodes/speech-gpt-node)** - Chat with your speeches via CLI—Whisper + VectorDB
+- 🐶 **[Zoomies API](https://github.com/ConceptCodes/zoomies-api-ts)** - Pet appointment management—scheduling, payments, notifications in one package
+- 📜 **[US Patent Researcher](https://github.com/ConceptCodes/us-patent-people-researcher)** - AI-powered workflow that researches inventors and drafts outreach emails
+
+### Coming Soon
+
+- 🍳 **[Jumba](https://github.com/todo-labs/jumba)** - Your personalized recipe engine, HelloFresh-style ([Live](https://jumba.co))
+- 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
+- 🧵 **[Stitch Fix](https://github.com/ConceptCodes/stitch-fix)** - Utility library for managing textile design and manufacturing operations
 
 <!-- ## Blog -->
 
