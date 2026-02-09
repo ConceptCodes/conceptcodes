@@ -38,9 +38,9 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 - 🎬 **[Deep SQL Researcher](https://github.com/ConceptCodes/deep-sql-research)** - Transform SQL research into polished video presentations with LangGraph
 - 🤝 **[Fragment](https://github.com/ConceptCodes/fragment)** - Real-time collaborative coding—HTMX + Go + WebAssembly, no waiting
 - 🧹 **[Mantis](https://github.com/ConceptCodes/mantis)** - Dog poop detection system—live camera monitoring with YOLO and email reports
-- 🧰 **[Poly-script](https://github.com/ConceptCodes/poly-script)** - Cross-language scripting platform—write once, run everywhere
 - 🦾 **[Quarto Bot](https://github.com/ConceptCodes/quarto-bot)** - Robotic arm mastering Quarto via RL, YOLOv11 vision, and PPO training
 - 🎮 **[RL Agents](https://github.com/ConceptCodes/rl-agents)** - Reinforcement learning collection—Snake, Pong, and Gungi, conquered
+- 🎯 **[SO-ARM Scratch Playground](https://github.com/todo-labs/so-arm-scratch-playground)** - Kid-friendly block-based programming interface for the SO-ARM101 robot arm
 - 💰 **[Eth Indexer](https://github.com/ConceptCodes/eth-indexer-go)** - Lightweight Ethereum blockchain indexer built in Go
 - 🎢 **[Rail Forge](https://github.com/ConceptCodes/rail-forge)** - 3D-printable roller coaster tracks—Python + OpenSCAD toolchain
 - ⛳ **[Tee Time](https://github.com/ConceptCodes/tee-time)** - WhatsApp bot that books your tee time while you sleep
@@ -53,6 +53,7 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 
 - 🍳 **[Jumba](https://github.com/todo-labs/jumba)** - Your personalized recipe engine, HelloFresh-style ([Live](https://jumba.co))
 - 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
+- 🧰 **[Poly-script](https://github.com/ConceptCodes/poly-script)** - Cross-language scripting platform—write once, run everywhere
 - 🧵 **[Stitch Fix](https://github.com/ConceptCodes/stitch-fix)** - Utility library for managing textile design and manufacturing operations
 
 <!-- ## Blog -->
