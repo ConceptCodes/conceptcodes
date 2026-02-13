@@ -34,6 +34,7 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 
 - 🎤 **[AI Order Entry](https://github.com/ConceptCodes/ai-order-entry)** - Conversational AI voice agent that takes orders like a pro—multi-language support included
 - ♟️ **[Chester](https://github.com/todo-labs/chester)** - AI-powered chess tutor that levels up your strategic thinking
+- 🦾 **[Claw V2](https://github.com/ConceptCodes/claw-v2)** - Network-controlled robot claw firmware with ESP32 S2 Feather and Python UDP control
 - 🚁 **[DJI Tello CTL](https://github.com/ConceptCodes/dji-tello-sdk)** - Go CLI and SDK to put DJI Tello drones through their paces
 - 🎬 **[Deep SQL Researcher](https://github.com/ConceptCodes/deep-sql-research)** - Transform SQL research into polished video presentations with LangGraph
 - 🤝 **[Fragment](https://github.com/ConceptCodes/fragment)** - Real-time collaborative coding—HTMX + Go + WebAssembly, no waiting
@@ -43,7 +44,7 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 - 🎯 **[SO-ARM Scratch Playground](https://github.com/todo-labs/so-arm-scratch-playground)** - Kid-friendly block-based programming interface for the SO-ARM101 robot arm ([Live](https://so-arm-scratch-playground.vercel.app/))
 - 💰 **[Eth Indexer](https://github.com/ConceptCodes/eth-indexer-go)** - Lightweight Ethereum blockchain indexer built in Go
 - 🎢 **[Rail Forge](https://github.com/ConceptCodes/rail-forge)** - 3D-printable roller coaster tracks—Python + OpenSCAD toolchain
-- ⛳ **[Tee Time](https://github.com/ConceptCodes/tee-time)** - WhatsApp bot that books your tee time while you sleep
+- ⛳ **[Tee Time](https://github.com/ConceptCodes/tee-time)** - WhatsApp booking assistant for golf clubs—let your members schedule tee times via chat
 - 📚 **[Theca](https://github.com/todo-labs/theca)** - AI-powered personal library manager that tracks your reads and recommends your next ([Live](https://theca.conceptcodes.dev))
 - 🎙 **[Speech GPT](https://github.com/ConceptCodes/speech-gpt-node)** - Chat with your speeches via CLI—Whisper + VectorDB
 - 🐶 **[Zoomies API](https://github.com/ConceptCodes/zoomies-api-ts)** - Pet appointment management—scheduling, payments, notifications in one package
@@ -53,8 +54,8 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 
 - 🍳 **[Jumba](https://github.com/todo-labs/jumba)** - Your personalized recipe engine, HelloFresh-style ([Live](https://jumba.co))
 - 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
-- 🧰 **[Poly-script](https://github.com/ConceptCodes/poly-script)** - Cross-language scripting platform—write once, run everywhere
-- 🧵 **[Stitch Fix](https://github.com/ConceptCodes/stitch-fix)** - Utility library for managing textile design and manufacturing operations
+- 🧰 **[Poly-script](https://github.com/ConceptCodes/poly-script)** - Service to transcribe videos in multiple languages
+- 🧵 **[Stitch Fix](https://github.com/ConceptCodes/stitch-fix)** - AI-powered clothing design—generates garments, sources textiles, and outputs printable sewing patterns
 
 <!-- ## Blog -->
 
