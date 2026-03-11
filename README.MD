@@ -50,11 +50,9 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 - 📚 **[Theca](https://github.com/todo-labs/theca)** - AI-powered personal library manager that tracks your reads and recommends your next ([Live](https://theca.conceptcodes.dev))
 - 📜 **[US Patent Researcher](https://github.com/ConceptCodes/us-patent-people-researcher)** - AI-powered workflow that researches inventors and drafts outreach emails
 - 🍐 **[Pear](https://github.com/todo-labs/pear)** - Local-first desktop app for AI-powered peer review—your drafts stay on your device with optional cloud LLM providers
-- 🐶 **[Zoomies API](https://github.com/ConceptCodes/zoomies-api-ts)** - Pet appointment management—scheduling, payments, notifications in one package
-
 
 ### Coming Soon
-- ♟️ **[Chester](https://github.com/todo-labs/chester)** - AI-powered chess tutor that levels up your strategic thinking
+
 - 🍳 **[Jumba](https://github.com/todo-labs/jumba)** - Your personalized recipe engine, HelloFresh-style ([Live](https://jumba.co))
 - 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
 - 🧰 **[Poly-script](https://github.com/ConceptCodes/poly-script)** - Service to transcribe videos in multiple languages
