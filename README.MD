@@ -46,15 +46,16 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 - 🎮 **[RL Agents](https://github.com/ConceptCodes/rl-agents)** - Reinforcement learning collection—Snake, Pong, and Gungi, conquered
 - 🎯 **[SO-ARM Scratch Playground](https://github.com/todo-labs/so-arm-scratch-playground)** - Kid-friendly block-based programming interface for the SO-ARM101 robot arm ([Live](https://so-arm-scratch-playground.vercel.app/))
 - 🎙 **[Speech GPT](https://github.com/ConceptCodes/speech-gpt-node)** - Chat with your speeches via CLI—Whisper + VectorDB
+- 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
 - ⛳ **[Tee Time](https://github.com/ConceptCodes/tee-time)** - WhatsApp booking assistant for golf clubs—let your members schedule tee times via chat
 - 📚 **[Theca](https://github.com/todo-labs/theca)** - AI-powered personal library manager that tracks your reads and recommends your next ([Live](https://theca.conceptcodes.dev))
 - 📜 **[US Patent Researcher](https://github.com/ConceptCodes/us-patent-people-researcher)** - AI-powered workflow that researches inventors and drafts outreach emails
 - 🚿 **[Videt](https://github.com/ConceptCodes/videt)** - Local-first CLI that auto-bleeps profanity from audio/video files—Whisper transcription + ffmpeg audio replacement
+- 🧩 **[templcn](https://github.com/ConceptCodes/templcn)** - Source-owned UI components for Go projects using templ, Tailwind CSS, and a small vanilla JavaScript runtime for interactive primitives
 
 ### Coming Soon
 - ♟️ **[Chester](https://github.com/todo-labs/chester)** - AI-powered chess tutor that levels up your strategic thinking
 - 🍳 **[Jumba](https://github.com/todo-labs/jumba)** - Your personalized recipe engine, HelloFresh-style ([Live](https://jumba.co))
-- 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
 - 🧰 **[Poly-script](https://github.com/ConceptCodes/poly-script)** - Service to transcribe videos in multiple languages
 - 🧵 **[Stitch Fix](https://github.com/ConceptCodes/stitch-fix)** - AI-powered clothing design—generates garments, sources textiles, and outputs printable sewing patterns
 
