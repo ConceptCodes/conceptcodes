@@ -33,25 +33,26 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 ### Active
 
 - 🎤 **[AI Order Entry](https://github.com/ConceptCodes/ai-order-entry)** - Conversational AI voice agent that takes orders like a pro—multi-language support included
-- 🎢 **[Rail Forge](https://github.com/ConceptCodes/rail-forge)** - 3D-printable roller coaster tracks—Python + OpenSCAD toolchain
 - 🦾 **[Claw V2](https://github.com/ConceptCodes/claw-v2)** - Network-controlled robot claw firmware with ESP32 S2 Feather and Python UDP control
 - 🎬 **[Deep SQL Researcher](https://github.com/ConceptCodes/deep-sql-research)** - Transform SQL research into polished video presentations with LangGraph
 - 🚁 **[DJI Tello CTL](https://github.com/ConceptCodes/dji-tello-sdk)** - Go CLI and SDK to put DJI Tello drones through their paces
 - 💰 **[Eth Indexer](https://github.com/ConceptCodes/eth-indexer-go)** - Lightweight Ethereum blockchain indexer built in Go
 - 🤝 **[Fragment](https://github.com/ConceptCodes/fragment)** - Real-time collaborative coding—HTMX + Go + WebAssembly, no waiting
+- 🔧 **[ISE Studio](https://github.com/todo-labs/ise-studio)** - Browser-based IDE for OpenSCAD with AI-powered coding assistance, built with React and Vite
 - 👁️ **[Iris](https://github.com/conceptcodes/iris)** - High-performance image search engine supporting text-to-image and reverse search with Go, Python, and Qdrant
 - 🧹 **[Mantis](https://github.com/ConceptCodes/mantis)** - Dog poop detection system—live camera monitoring with YOLO and email reports
+- 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
 - 🍐 **[Pear](https://github.com/todo-labs/pear)** - Local-first desktop app for AI-powered peer review of your writing
 - 🦾 **[Quarto Bot](https://github.com/ConceptCodes/quarto-bot)** - Robotic arm mastering Quarto via RL, YOLOv11 vision, and PPO training
+- 🎢 **[Rail Forge](https://github.com/ConceptCodes/rail-forge)** - 3D-printable roller coaster tracks—Python + OpenSCAD toolchain
 - 🎮 **[RL Agents](https://github.com/ConceptCodes/rl-agents)** - Reinforcement learning collection—Snake, Pong, and Gungi, conquered
 - 🎯 **[SO-ARM Scratch Playground](https://github.com/todo-labs/so-arm-scratch-playground)** - Kid-friendly block-based programming interface for the SO-ARM101 robot arm ([Live](https://so-arm-scratch-playground.vercel.app/))
 - 🎙 **[Speech GPT](https://github.com/ConceptCodes/speech-gpt-node)** - Chat with your speeches via CLI—Whisper + VectorDB
-- 🎧 **[Podcastr](https://github.com/todo-labs/podcastr)** - AI-generated podcasts, personalized and on-device
 - ⛳ **[Tee Time](https://github.com/ConceptCodes/tee-time)** - WhatsApp booking assistant for golf clubs—let your members schedule tee times via chat
 - 📚 **[Theca](https://github.com/todo-labs/theca)** - AI-powered personal library manager that tracks your reads and recommends your next ([Live](https://theca.conceptcodes.dev))
+- 🧩 **[templcn](https://github.com/ConceptCodes/templcn)** - Source-owned UI components for Go projects using templ, Tailwind CSS, and a small vanilla JavaScript runtime for interactive primitives
 - 📜 **[US Patent Researcher](https://github.com/ConceptCodes/us-patent-people-researcher)** - AI-powered workflow that researches inventors and drafts outreach emails
 - 🚿 **[Videt](https://github.com/ConceptCodes/videt)** - Local-first CLI that auto-bleeps profanity from audio/video files—Whisper transcription + ffmpeg audio replacement
-- 🧩 **[templcn](https://github.com/ConceptCodes/templcn)** - Source-owned UI components for Go projects using templ, Tailwind CSS, and a small vanilla JavaScript runtime for interactive primitives
 
 ### Coming Soon
 - ♟️ **[Chester](https://github.com/todo-labs/chester)** - AI-powered chess tutor that levels up your strategic thinking
