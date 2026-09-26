@@ -34,10 +34,12 @@ Aside from coding, I have a fascination for robotics and Machine Learning. When 
 
 - 🎤 **[AI Order Entry](https://github.com/ConceptCodes/ai-order-entry)** - Conversational AI voice agent that takes orders like a pro—multi-language support included
 - 🦾 **[Claw V2](https://github.com/ConceptCodes/claw-v2)** - Network-controlled robot claw firmware with ESP32 S2 Feather and Python UDP control
+- 🦿 **[STS3215 Node](https://github.com/ConceptCodes/sts3215-node)** - TypeScript controller library for STS3215 servos
 - 🎬 **[Deep SQL Researcher](https://github.com/ConceptCodes/deep-sql-research)** - Transform SQL research into polished video presentations with LangGraph
 - 🚁 **[DJI Tello CTL](https://github.com/ConceptCodes/dji-tello-sdk)** - Go CLI and SDK to put DJI Tello drones through their paces
 - 💰 **[Eth Indexer](https://github.com/ConceptCodes/eth-indexer-go)** - Lightweight Ethereum blockchain indexer built in Go
 - 🤝 **[Fragment](https://github.com/ConceptCodes/fragment)** - Real-time collaborative coding—HTMX + Go + WebAssembly, no waiting
+- 🔌 **[go-mcp](https://github.com/ConceptCodes/go-mcp)** - Go SDK for building MCP clients and servers, with stdio and Streamable HTTP transports
 - 🔧 **[ISE Studio](https://github.com/todo-labs/ise-studio)** - Browser-based IDE for OpenSCAD with AI-powered coding assistance, built with React and Vite
 - 👁️ **[Iris](https://github.com/conceptcodes/iris)** - High-performance image search engine supporting text-to-image and reverse search with Go, Python, and Qdrant
 - 🧹 **[Mantis](https://github.com/ConceptCodes/mantis)** - Dog poop detection system—live camera monitoring with YOLO and email reports
